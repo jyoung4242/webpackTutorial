@@ -1,3 +1,3 @@
 import "./styles.css"
 
-console.log("Hello World - index.js")
+console.log("Fix my repo please")
